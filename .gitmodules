@@ -1,0 +1,3 @@
+[submodule "FrontEndProject/Front_End_Platzi_Project"]
+	path = FrontEndProject/Front_End_Platzi_Project
+	url = git@github.com:sebastian5460/Front_End_Platzi_Project.git
